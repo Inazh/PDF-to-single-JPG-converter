@@ -22,5 +22,8 @@ Make sure Python is installed on your system.
 
 Check version:
 ```bash
-python --version
+python --version 
+
+### 2. Install Python
+Make sure Python is installed on your system.
 
