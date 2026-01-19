@@ -1,4 +1,4 @@
-# PDF to Single JPG Converter (PyMuPDF)
+# PDF to Single JPG Converter
 
 This project is a simple Python application that converts a multi-page PDF file into **one single JPG image** by vertically combining all pages.  
 It uses **PyMuPDF** for PDF rendering and **Pillow** for image processing.
