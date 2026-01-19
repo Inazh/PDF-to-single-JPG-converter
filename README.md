@@ -8,10 +8,6 @@ It uses **PyMuPDF** for PDF rendering and **Pillow** for image processing.
 ## Features
 - Select PDF file using File Explorer
 - Convert all PDF pages into a single JPG image
-- Output file name automatically follows the PDF name
-- Output image is saved in the same directory as the Python script
-- No Poppler installation required
-- Cross-platform (Windows, macOS, Linux)
 
 ---
 
