@@ -23,7 +23,24 @@ Make sure Python is installed on your system.
 Check version:
 ```bash
 python --version 
+```
 
-### 2. Install Python
-Make sure Python is installed on your system.
+### 2. Install Requirements
+Install the application dependencies.
 
+Make sure `requirements.txt` contains:
+```txt
+pymupdf
+pillow
+```
+
+Then install them using:
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Application
+Run the application with:
+```bash
+python app.py
+```
